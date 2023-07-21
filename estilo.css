@@ -6,7 +6,7 @@
     text-decoration: none;
     box-sizing: border-box;
     font-family: 'Outfit', sans-serif;
-    background-color: #3f735f;
+    background-color: #222222;
 }
 
 #textinho{
@@ -54,6 +54,11 @@
 
 #zoa2{
     margin-left: 770px;
-    color: #00000070;
+    color: #ffffff30;
     font-weight: lighter;
+}
+
+#wave{
+    position: fixed;
+    margin-top: 60px;
 }
